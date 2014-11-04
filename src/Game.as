@@ -19,7 +19,8 @@ package
 		{
 			trace("Minun Päiväni!");
 			
-			
+			screenWelcome = new Welcome();
+			this.addChild(screenWelcome);
 		}
 	}
 }

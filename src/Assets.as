@@ -7,8 +7,8 @@ package
 
 	public class Assets
 	{
-		[Embed(source="../media/graphics/taustakaupunki-valamis.swf")]
-		public static const alkuAnimaatio:Class;
+		[Embed(source="../media/graphics/poika.png")]
+		public static const BgWelcome:Class;
 		
 		private static var gameTextures:Dictionary = new Dictionary();
 		
