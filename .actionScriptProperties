@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<actionScriptProperties analytics="false" mainApplicationPath="MinunPaivani.as" projectUUID="afa49f8a-bb45-4a25-9693-e486548d641e" version="10">
+<actionScriptProperties analytics="false" mainApplicationPath="Main.as" projectUUID="5b7c61f2-ce4c-4d5e-a97f-b3017f9aed77" version="10">
   <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="true" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
     <compilerSourcePath>
-      <compilerSourcePathEntry kind="1" linkType="1" path="tools/greensock-as3"/>
       <compilerSourcePathEntry kind="1" linkType="1" path="tools/starling/src"/>
       <compilerSourcePathEntry kind="1" linkType="1" path="tools/Hi-ReS-Stats-master/src"/>
     </compilerSourcePath>
@@ -36,11 +35,9 @@
     <sourceAttachmentPath/>
   </compiler>
   <applications>
-    <application path="MinunPaivani.as"/>
+    <application path="Main.as"/>
   </applications>
   <modules/>
   <buildCSSFiles/>
   <flashCatalyst validateFlashCatalystCompatibility="false"/>
 </actionScriptProperties>
-
-
